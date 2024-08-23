@@ -1,0 +1,1 @@
+# foydalanuvchi login qismida shu joyga kelib tushadi va bu oyna ishga tuhsadi
